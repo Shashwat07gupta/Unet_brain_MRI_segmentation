@@ -3,6 +3,8 @@ This project aims at detecting superficial brain lesions, such as tumor, hematom
 
 Dataset Link :- https://www.kaggle.com/mateuszbuda/lgg-mri-segmentation
 
+The checkpoint can be found [here](https://drive.google.com/drive/u/0/search?q=.hdf5)
+
 Original Unet-Architecture :- https://arxiv.org/abs/1505.04597
 
 ## Description ##
